@@ -1,0 +1,6 @@
+com/IsRare/PublishOverhaul/PublishOverhaul.java
+ com.IsRare.PublishOverhaul.PublishOverhaul
+com/IsRare/PublishOverhaul/mixins/PublishCommandMixin.java
+ com.IsRare.PublishOverhaul.mixins.PublishCommandMixin
+com/IsRare/PublishOverhaul/mixins/LANPortMixin.java
+ com.IsRare.PublishOverhaul.mixins.LANPortMixin

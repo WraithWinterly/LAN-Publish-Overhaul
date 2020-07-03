@@ -1,0 +1,4 @@
+v1	named	intermediary
+METHOD	com/IsRare/PublishOverhaul/mixins/LANPortMixin	()I	findLocalPort	method_15302
+METHOD	com/IsRare/PublishOverhaul/mixins/PublishCommandMixin	(Lcom/mojang/brigadier/CommandDispatcher;)V	register	method_13510
+METHOD	com/IsRare/PublishOverhaul/mixins/PublishCommandMixin	(Lnet/minecraft/server/command/ServerCommandSource;I)I	execute	method_13509
