@@ -13,6 +13,8 @@ To open your world to anyone, use `/open <port>` and make sure the port is forwa
 
 On the Open to LAN screen, the port will always be set to `25565` instead of a random number.
 
+NOTICE: This mod *REQUIRES* the Fabric API. Get it from here: [https://www.curseforge.com/minecraft/mc-mods/fabric-api](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+
   
 
 # Why?
