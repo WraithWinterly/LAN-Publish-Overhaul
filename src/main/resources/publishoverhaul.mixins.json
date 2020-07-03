@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.IsRare.PublishOverhaul.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "LANPortMixin",
+    "PublishCommandMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
