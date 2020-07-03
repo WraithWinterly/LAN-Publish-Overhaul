@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Publish Overhaul",
-  "description": "Publish Command and Open to LAN Overhaul!",
+  "description": "This mod reworks the Open To Lan and /publish command. Here's the changes: '/publish' renamed to '/open' and can be used without cheats enabled. To open your world to anyone, use `/open <port>` and make sure the port is forwarded on your router. On the Open to LAN screen, the port will always be set to '25565' instead of a random number. Why? In Minecraft Java Edition, you can't realistically play with your friends on a cheats-off survival mode world, so this mod fixes that by letting you choose the port you open to, or always setting it to a static value.",
   "authors": [
     "IsRare"
   ],
